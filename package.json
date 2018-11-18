@@ -1,0 +1,29 @@
+{
+  "name": "@zestia/prettier-config",
+  "version": "0.0.1",
+  "description": "Prettier config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zestia/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "author": "Zestia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zestia/prettier-config/issues"
+  },
+  "homepage": "https://github.com/zestia/prettier-config",
+  "dependencies": {
+
+  },
+  "peerDependencies": {
+    "prettier": ">=1.15.2"
+  }
+}

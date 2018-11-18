@@ -1,2 +1,6 @@
-# prettier-config
-Prettier config used across projects
+# @zestia/prettier-config
+
+```javascript
+// prettier.config.js
+module.exports = require('@zestia/prettier-config');
+```

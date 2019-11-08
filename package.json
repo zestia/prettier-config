@@ -20,7 +20,5 @@
     "url": "https://github.com/zestia/prettier-config/issues"
   },
   "homepage": "https://github.com/zestia/prettier-config",
-  "dependencies": {
-
-  }
+  "dependencies": {}
 }

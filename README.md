@@ -1,6 +1,6 @@
 # @zestia/prettier-config
 
-This package provides a common Prettier configuration, so that all projects have consistent formatting.
+This package provides a common Prettier configuration, so that all projects have consistent code formatting.
 
 ## Installation
 

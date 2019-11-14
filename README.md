@@ -1,13 +1,36 @@
 # @zestia/prettier-config
 
+This package provides a common Prettier configuration, so that all projects have consistent formatting.
+
+## Installation
+
+```
+npm install --save @zestia/prettier-config
+```
+
+## Setup
+
+Create the following file `prettier.config.js`
+
 ```javascript
-// prettier.config.js
 module.exports = require('@zestia/prettier-config');
 ```
 
-<hr>
+## Running
 
-Related repos:
+As this package only provides the Prettier configuration, it is assumed you already have `prettier` installed in your project.
+
+* It's recommended to install the relevant Editor Addons/Plugins and enable "Pretter on Save".
+
+* It's recommended to add a prettier script to `package.json`. An example one is:
+
+    ```json
+    scripts: {
+      "prettier": "prettier '**/*.{js,json,css,scss,html,md}' --write"
+    }
+    ```
+
+## Related repos
 
 * https://github.com/zestia/prettier-config
 * https://github.com/zestia/eslint-config

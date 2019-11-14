@@ -4,7 +4,8 @@
   "description": "Prettier config",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
     "url": "https://github.com/zestia/prettier-config/issues"
   },
   "homepage": "https://github.com/zestia/prettier-config",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "release-it": "12.4.3"
+  }
 }

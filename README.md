@@ -29,6 +29,10 @@ As this package only provides the Prettier configuration, it is assumed you alre
       "prettier": "prettier '**/*.{js,json,css,scss,html,md}' --write"
     }
     ```
+    You can then run
+    ```
+    npm run prettier
+    ```
 
 ## Related repos
 

@@ -29,7 +29,7 @@ As this package only provides the Prettier configuration, it is assumed you alre
       "prettier": "prettier '**/*.{js,json,css,scss,html,md}' --write"
     }
     ```
-    You can then run
+    You can then run the following, to automatically format your project's code:
     ```
     npm run prettier
     ```

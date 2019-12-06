@@ -1,3 +1,10 @@
 module.exports = {
-  singleQuote: true
+  singleQuote: true,
+  overrides: [{
+    files: '*.hbs',
+    options: {
+      singleQuote: false,
+      parser: 'glimmer'
+    }
+  }]
 };

@@ -10,7 +10,7 @@ npm install --save @zestia/prettier-config
 
 ## Setup
 
-Create the following file `prettier.config.js`
+Create the following file `.prettierrc.js`
 
 ```javascript
 module.exports = require('@zestia/prettier-config');

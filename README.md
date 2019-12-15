@@ -5,7 +5,7 @@ This package provides a common Prettier configuration, so that all projects have
 ## Installation
 
 ```
-npm install --save @zestia/prettier-config
+npm install --save-dev @zestia/prettier-config
 ```
 
 ## Setup

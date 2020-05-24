@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2
+
+- Eat own dogfood by utilising this prettier config
+
 ## 1.0.1
 
 - Turn off new default value for trailing commas

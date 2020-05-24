@@ -4,7 +4,9 @@
   "description": "Prettier config",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "npm run lint",
+    "lint": "eslint .",
+    "prettier": "prettier '**/*.{js,json,md}' --write",
     "release": "release-it"
   },
   "repository": {
@@ -23,6 +25,9 @@
   "homepage": "https://github.com/zestia/prettier-config",
   "dependencies": {},
   "devDependencies": {
-    "release-it": "^13.6.1"
+    "release-it": "^13.6.1",
+    "eslint": "^7.1.0",
+    "@zestia/eslint-config": "^2.0.31",
+    "prettier": "^2.0.5"
   }
 }

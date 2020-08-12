@@ -1,12 +1,9 @@
 # Changelog
 
-## 1.0.3
-
-- Upgrade dependencies
-
 ## 1.0.2
 
 - Eat own dogfood by utilising this prettier config
+- Upgrade dependencies
 
 ## 1.0.1
 

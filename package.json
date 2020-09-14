@@ -25,9 +25,9 @@
   "homepage": "https://github.com/zestia/prettier-config",
   "dependencies": {},
   "devDependencies": {
-    "@zestia/eslint-config": "^2.0.42",
-    "eslint": "^7.6.0",
-    "prettier": "^2.0.5",
-    "release-it": "^13.6.6"
+    "@zestia/eslint-config": "^3.0.1",
+    "eslint": "^7.9.0",
+    "prettier": "^2.1.1",
+    "release-it": "^14.0.2"
   }
 }

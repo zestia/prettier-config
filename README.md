@@ -41,4 +41,4 @@ As this package only provides the Prettier configuration, it is assumed you alre
 - https://github.com/zestia/prettier-config
 - https://github.com/zestia/eslint-config
 - https://github.com/zestia/stylelint-config
-- https://github.com/zestia/ember-template-lint-plugin
+- https://github.com/zestia/template-lint-config

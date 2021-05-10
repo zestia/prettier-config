@@ -5,8 +5,7 @@ module.exports = {
     {
       files: '*.hbs',
       options: {
-        singleQuote: false,
-        parser: 'glimmer'
+        singleQuote: false
       }
     }
   ]

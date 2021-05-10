@@ -23,11 +23,10 @@
     "url": "https://github.com/zestia/prettier-config/issues"
   },
   "homepage": "https://github.com/zestia/prettier-config",
-  "dependencies": {},
   "devDependencies": {
-    "@zestia/eslint-config": "^3.0.1",
-    "eslint": "^7.12.1",
-    "prettier": "^2.1.2",
-    "release-it": "^14.2.1"
+    "@zestia/eslint-config": "^4.0.3",
+    "eslint": "^7.26.0",
+    "prettier": "^2.3.0",
+    "release-it": "^14.6.2"
   }
 }

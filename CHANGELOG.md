@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.5
+
+- Upgrade dependencies
+- Removes reference to glimmer parser, because prettier 2.3.0 now has support for Handlebars
+
 ## 1.0.4
 
 - Upgrade dependencies

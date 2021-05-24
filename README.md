@@ -13,7 +13,7 @@ npm install --save-dev @zestia/prettier-config
 1. Create the following file `.prettierrc.js`
 
    ```javascript
-   module.exports = require("@zestia/prettier-config");
+   module.exports = require('@zestia/prettier-config');
    ```
 
 2. Add the following to `scripts` in `package.json`

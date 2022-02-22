@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.8
+
+- Add prettier to peer deps
+
 ## 1.0.7
 
 - Upgrade dependencies

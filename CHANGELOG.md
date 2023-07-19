@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.11
+
+- Re-release of 1.0.11 for testing publishing to GH instead of NPM
+
 ## 1.0.10
 
 - Upgrade dependencies

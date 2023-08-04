@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.1
+
+- Forgot to update peer dep
+
 ## 1.2.0
 
 - Update `prettier` to v3

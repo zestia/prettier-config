@@ -30,6 +30,10 @@ npm install --save-dev @zestia/prettier-config
 npm run prettier
 ```
 
+## Notes
+
+- `prettier-plugin-ember-template-tag` for support of .gjs files
+
 ## Related repos
 
 - https://github.com/zestia/prettier-config

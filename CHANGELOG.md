@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.0
+
+- Update `prettier` to v3
+
 ## 1.1.0
 
 - Add `prettier-plugin-ember-template-tag`

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.2
+
+- Bump `@zestia/eslint-config`
+
 ## 1.2.1
 
 - Forgot to update peer dep

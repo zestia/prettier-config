@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.0
+
+- Add `prettier-plugin-ember-template-tag`
+
 ## 1.0.12
 
 - Update `@zestia` scoped packages

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.0
+
+- Use single quotes for js, and double quotes for `<template>` tags (in files with mixed js and hbs).
+
 ## 1.2.2
 
 - Bump `@zestia/eslint-config`

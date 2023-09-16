@@ -6,21 +6,14 @@ module.exports = {
     {
       files: '*.{js,ts,gjs,gts}',
       options: {
-        singleQuote: true
+        singleQuote: true,
+        templateSingleQuote: false
       }
     },
     {
       files: '*.hbs',
       options: {
         singleQuote: false
-      }
-    },
-    {
-      files: '*.{gjs,gts}',
-      options: {
-        parser: 'ember-template-tag',
-        singleQuote: true,
-        templateSingleQuote: false
       }
     }
   ]

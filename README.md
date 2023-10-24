@@ -8,6 +8,13 @@ This package provides a common Prettier configuration, so that all projects have
 npm install --save-dev @zestia/prettier-config
 ```
 
+Add the following to `~/.npmrc` to pull @zestia scoped packages from Github instead of NPM.
+
+```
+@zestia:registry=https://npm.pkg.github.com
+//npm.pkg.github.com/:_authToken=<YOUR_GH_TOKEN>
+```
+
 ## Setup
 
 1. Create the following file `.prettierrc.js`

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.4
+
+- Update peer deps
+
 ## 1.3.3
 
 - Fix config in 1.3.2

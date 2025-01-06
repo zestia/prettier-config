@@ -17,16 +17,18 @@ Add the following to `~/.npmrc` to pull @zestia scoped packages from Github inst
 
 ## Setup
 
-1. Create the following file `.prettierrc.js`
+1. Create the following file `prettier.config.mjs`
 
    ```javascript
-   module.exports = require('@zestia/prettier-config');
+   import zestia from '@zestia/prettier-config';
+
+   export default zestia;
    ```
 
 2. Add the following to `scripts` in `package.json`
 
    ```
-   "prettier": "prettier '**/*.{js,json,css,scss,html,hbs,md}' --write"
+   "prettier": "prettier . --write"
    ```
 
 3. Install the relevant Editor Addon/Plugin and enable "Prettier on Save".

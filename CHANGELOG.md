@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.3
+
+- Fix config in 1.3.2
+
 ## 1.3.2
 
 - Update config to match Ember defaults

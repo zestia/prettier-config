@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.5
+
+- Eat own dog food
+
 ## 1.3.4
 
 - Update peer deps

@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   singleQuote: true,
   trailingComma: 'none',
   plugins: ['prettier-plugin-ember-template-tag'],
